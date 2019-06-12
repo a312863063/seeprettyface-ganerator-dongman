@@ -1,5 +1,5 @@
 
-注明：这项工作的原创性方法由[Gwern提出](https://www.gwern.net/)，我只不过是照着他的方法重现了一遍。
+注明：这项工作的原创性方法由[Gwern](https://www.gwern.net/)提出，我只不过是照着他的方法重现了一遍。
 # 动漫脸生成器
 &emsp;&emsp;这是一个用StyleGAN训练出的动漫脸生成器，生成效果如下所示。<br /><br /><br />
 
