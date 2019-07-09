@@ -6,8 +6,8 @@
 # 生成示例
 
 ## &emsp;&emsp;单张样本
-&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-ganerator-dongman/blob/master/examples/example1.png)<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-ganerator-dongman/blob/master/examples/example2.png)<br/><br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-ganerator-dongman/blob/master/examples/example_1.png)<br/><br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-ganerator-dongman/blob/master/examples/example_2.png)<br/><br/>
 
 ## 概览（有筛选）
 ![Image text](https://github.com/a312863063/seeprettyface-ganerator-dongman/blob/master/examples/64_examples.jpg)
@@ -17,7 +17,6 @@
 &emsp;&emsp;Both Linux and Windows are supported, but we strongly recommend Linux for performance and compatibility reasons.<br/>
 &emsp;&emsp;64-bit Python 3.6 installation. We recommend Anaconda3 with numpy 1.14.3 or newer.<br/>
 &emsp;&emsp;TensorFlow 1.10.0 or newer with GPU support.<br/>
-&emsp;&emsp;One or more high-end NVIDIA GPUs with at least 11GB of DRAM. We recommend NVIDIA DGX-1 with 8 Tesla V100 GPUs.<br/>
 &emsp;&emsp;NVIDIA driver 391.35 or newer, CUDA toolkit 9.0 or newer, cuDNN 7.3.1 or newer.<br/>
 
 ## 运行步骤
