@@ -8,6 +8,7 @@
 ## &emsp;&emsp;单张样本
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-ganerator-dongman/blob/master/examples/example_1.png)<br/><br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-ganerator-dongman/blob/master/examples/example_2.png)<br/><br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;![Image text](https://github.com/a312863063/seeprettyface-ganerator-dongman/blob/master/examples/example_3.png)<br/><br/>
 
 ## 概览（有筛选）
 ![Image text](https://github.com/a312863063/seeprettyface-ganerator-dongman/blob/master/examples/64_examples.jpg)
